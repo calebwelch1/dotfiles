@@ -1,0 +1,9 @@
+[submodule ".zfuncs/fsh"]
+	path = .zfuncs/fsh
+	url = https://github.com/zdharma/fast-syntax-highlighting
+[submodule ".zfuncs/zsh-autosuggestions"]
+	path = .zfuncs/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
+[submodule ".zfuncs/prompt"]
+	path = .zfuncs/prompt
+	url = https://github.com/nathanblair/prompt
